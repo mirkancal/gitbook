@@ -5,6 +5,7 @@ It's very easy to setup a bare-bones Angel server.
 Any Dart project needs a project file, called `pubspec.yaml`. This file almost always contains a `dependencies` section, where you will install the Angel framework libraries.
 
 ```yaml
+name: hello_angel
 dependencies:
     angel_framework: ^2.0.0
 ```
